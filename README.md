@@ -3,7 +3,7 @@
 ## Notas gerais
 
 - Não compartilhe seu teste publicamente em nenhuma plataforma durante o processo de seleção.
-- Recomendamos que use um reposítório privado no Github e de acesso aos seguintes usuários: `fabinppk`, `cheldernunes`, `mauriciors`, `silveiradasilvaa` e `rafaelnogueira1`. (Em útimo caso, se tiver problemas em adicionar usuários em um repositório privado, deixe-o público e nos mande o link dele.)
+- Recomendamos que use um reposítório privado no Github e de acesso aos seguintes usuários: `cheldernunes`, `mauriciors`, `andradekaio`, `silveiradasilvaa` e `rafaelnogueira1`. (Em útimo caso, se tiver problemas em adicionar usuários em um repositório privado, deixe-o público e nos mande o link dele.)
 
 ## Nossas expectativas
 
