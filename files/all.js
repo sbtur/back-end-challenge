@@ -300,7 +300,10 @@ export const vitrine = [
           name: "Brasil",
           slug: "brasil",
         },
-        type: "Hospedagem",
+         category: {
+          name: "Hospedagem",
+          slug: "hospedagem",
+        },
         price: 5230,
       },
     ],
